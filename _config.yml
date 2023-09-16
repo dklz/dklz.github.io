@@ -1,4 +1,4 @@
-theme: minima
+remote-theme: minima
 
 title: Hello, World
 author:
@@ -6,3 +6,6 @@ author:
   email: abc@dklz.ca
 description: >
   Less is More
+
+minima:
+  skin: solarized
