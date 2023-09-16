@@ -1,1 +1,8 @@
 theme: minima
+
+title: Hello, World
+author:
+  name: LZ
+  email: abc@dklz.ca
+description: >
+  Less is More
