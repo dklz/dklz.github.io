@@ -8,7 +8,7 @@ description: >
 plugins:
   - jekyll-remote-theme
 
-remote-theme: jekyll/minima
+remote_theme: jekyll/minima
 
 minima:
   skin: solarized
