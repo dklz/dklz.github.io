@@ -3,7 +3,7 @@ author:
   name: lz
   email: abc@dklz.ca
 description: >
-  Less is More.
+  Less is more.
 
 plugins:
   - jekyll-remote-theme
