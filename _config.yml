@@ -1,11 +1,14 @@
-remote-theme: jekyll/minima
-
 title: Hello, World
 author:
   name: LZ
   email: abc@dklz.ca
 description: >
   Less is More
+
+plugins:
+  - jekyll-remote-theme
+
+remote-theme: jekyll/minima
 
 minima:
   skin: solarized
