@@ -1,9 +1,9 @@
 title: Hello, World
 author:
-  name: LZ
+  name: lz
   email: abc@dklz.ca
 description: >
-  Less is More
+  Less is More.
 
 plugins:
   - jekyll-remote-theme
