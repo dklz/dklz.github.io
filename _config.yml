@@ -1,6 +1,6 @@
 title: Hello, World
 author:
-  name: lz
+  name: Z
   email: abc@dklz.ca
 description: >
   Less is more.
@@ -13,4 +13,4 @@ plugins:
 remote_theme: jekyll/minima
 
 minima:
-  skin: solarized
+  skin: auto
